@@ -1,2 +1,1 @@
-# AndroidCurriculumDesign
-an android curriculum design
+# Android Curriculum Design
