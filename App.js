@@ -59,7 +59,7 @@ export default class App extends Component {
                     }
                 }
                 locked={true}
-                initialPage={3}
+                initialPage={0}
                 prerenderingSiblingsNumber={1}
 
             >

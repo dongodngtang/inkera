@@ -19,7 +19,6 @@ import Icon from 'react-native-vector-icons/Ionicons';
 export default class TabBar extends Component {
     static propTypes = {
 
-
         goToPage: React.PropTypes.func, // 跳转到对应tab的方法
         activeTab: React.PropTypes.number, // 当前被选中的tab下标
         tabs: React.PropTypes.array, // 所有tabs集合
